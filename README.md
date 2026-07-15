@@ -1,0 +1,2 @@
+# 30883302d56b053b-cybersecurity-appointment-sche
+cybersecurity professionals waste hours on switching between tabs and losing context. This fixes that.  Works directly in Chrome, Edge, and Brave — no switching apps required. Under 1MB. Zero performance impact on browser speed.  ## What's Included  - Cybersecurity Appointment Scheduling And Reminders — fully configured and ready to use - One-click
