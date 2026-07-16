@@ -1,2 +1,28 @@
-# 30883302d56b053b-cybersecurity-appointment-sche
-cybersecurity professionals waste hours on switching between tabs and losing context. This fixes that.  Works directly in Chrome, Edge, and Brave — no switching apps required. Under 1MB. Zero performance impact on browser speed.  ## What's Included  - Cybersecurity Appointment Scheduling And Reminders — fully configured and ready to use - One-click
+# Cybersecurity Appointment Scheduling and Reminders Bot
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic functionality | Yes | Yes |
+| Community support | Yes | Yes |
+| Standard features | Yes | Yes |
+| Advanced automation | - | Yes |
+| Priority support | - | Yes |
+| Custom configurations | - | Yes |
+| Auto-updates | - | Yes |
+| Premium integrations | - | Yes |
+| Unlimited usage | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/aFaeVdbHh0bW9JK6fycZM3x)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/aFaeVdbHh0bW9JK6fycZM3x)
+
